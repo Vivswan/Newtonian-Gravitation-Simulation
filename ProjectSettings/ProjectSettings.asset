@@ -621,7 +621,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: 9cf45653-3f8c-41e1-9656-196d680477a5
   framebufferDepthMemorylessMode: 0
-  projectName: Newtonian Gravitation Simulation (1)
+  projectName: Newtonian Gravitation Simulation
   organizationId: vivswan
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
